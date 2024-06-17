@@ -137,7 +137,7 @@ The API uses basic error handling to return appropriate HTTP status codes and me
     }
     ```
 
-## Post API Testing
+## PostMan API Testing
 ![Screenshot (102)](https://github.com/Pycreater/user-registration/assets/114671066/a4757b73-7f96-4c22-a432-c56b693f0761)
 ![Screenshot (103)](https://github.com/Pycreater/user-registration/assets/114671066/c8c23957-c2cd-451b-9097-7f1297f9f591)
 
